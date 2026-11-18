@@ -64,6 +64,27 @@ El tema no exige que el amor sea falso ni que los personajes sean incapaces de a
 
 Escalada tardía con transformación de género en los actos IV y V: las primeras partes priorizan fantasía oscura, política, aventura y guerra; la aparición formal del Clérigo desplaza la narración hacia el horror y el misterio metafísico. El cambio de tono debe sentirse preparado por consecuencias materiales visibles, no depender solo de rumores.
 
+### Estética: GRIMDARK + HOPEPUNK — CANON (v0.11)
+
+> La estética oficial del proyecto es la **tensión** entre dos fuerzas que NO se anulan, sino que chocan y producen el drama:
+> - **Grimdark = la estética del MUNDO.** El mundo es cruel, las instituciones están podridas, la violencia tiene consecuencias reales e irreversibles, el poder no premia la virtud, y la gente buena puede morir **mal, sin sentido y sin recompensa**. El mundo no protege a nadie.
+> - **Hopepunk = la estética de los PERSONAJES.** Frente a ese mundo, los protagonistas **eligen seguir siendo decentes de todos modos** — no por ingenuidad, sino como acto de resistencia consciente. La bondad **cuesta** (no se recompensa) y se elige igual. La esperanza no es un rasgo naif; es el acto más difícil y rebelde que le queda a la gente.
+
+**La frase que resume la estética:**
+> *Un mundo grimdark donde la esperanza no es ingenuidad, sino el acto más difícil y rebelde que le queda a la gente.*
+
+**Reglas de prosa para lograr el tono (aplicar de aquí en adelante):**
+1. **El mundo no dignifica toda crueldad.** Debe morir gente buena **mal, sin frase bonita, sin sentido**; debe haber víctimas que no sirven a ningún arco. No todas las muertes son hermosas ni redentoras. El mundo gana a menudo.
+2. **El narrador NO redondea el significado.** Evitar el lazo moral al cerrar escenas (la frase sentenciosa que le dice al lector qué sentir). Cortar seco, dejar lo crudo sin consuelo narrativo. Dosificar mucho las frases-tesis; cuando aparezcan, que sean raras y pesen más.
+3. **Los protagonistas se ensucian.** Toman decisiones feas; la bondad les cuesta pérdidas reales que no se compensan; a veces lo decente es lo estratégicamente malo, y lo eligen igual. (Ahí vive el hopepunk: cuesta y se elige.)
+4. **El hopepunk es resistencia, no naturaleza.** Los personajes buenos no lo son «porque sí»; lo son **a pesar de** que el mundo les enseña a no serlo, eligiéndolo cada vez con conciencia del precio. Que *sepan* que su decencia es una locura en este mundo y la elijan de todas formas.
+
+**Coherencia con lo ya acordado:** encaja con §3 («oscuridad ≠ crueldad pornográfica»: grimdark no es regodeo gráfico, es injusticia sin consuelo); con la escalada tardía al horror (arriba); y con la tesis (el amor que justifica atrocidades). El contraste gente-buena / mundo-cruel **es** el motor: cada acto de decencia pesa más porque el mundo va ganando.
+
+**Progresión sugerida (encaja con la escalada tardía):** la primera mitad puede ser más cálida *a propósito* (construir vínculos que importen) para que la segunda, grimdark pleno, los destroce. La calidez temprana es la trampa: se construye algo bueno para romperlo.
+
+> **NOTA DE TRABAJO (v0.11):** esta estética se adopta a mitad del Acto II. **Revisar acto por acto** lo ya escrito para ajustar el tono (secar cierres con lazo moral, endurecer el mundo, ensuciar a los protagonistas donde convenga). Lo nuevo se escribe ya en esta clave; lo viejo se repasa en cada relectura de acto.
+
 ---
 
 ## 3. Influencias y referencias creativas
